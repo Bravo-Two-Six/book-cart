@@ -132,6 +132,7 @@ dmypy.json
 /node_modules
 /.pnp
 .pnp.js
+/virtualenv
 
 # testing
 /coverage
