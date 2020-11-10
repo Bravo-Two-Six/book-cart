@@ -32,6 +32,4 @@ jobs:
       - name: Installing Node Dependencies
         run: npm install
       - name: Building React App
-        run: npm run buid
-      - name : Running Django App
-        run: python manage.py runserver
+        run: npm run build
