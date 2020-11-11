@@ -93,7 +93,7 @@ class Navbar extends Component {
 		return (
 			<React.Fragment>
 			<header>
-				<nav className="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-arielle-smile border-bottom box-shadow mb-3 fixed-header">
+				<nav className="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-sunny-morning border-bottom box-shadow mb-3">
 					<div className="container">
 						<Link className="navbar-brand text-dark" to="/">Book Cart</Link>
 						<div className="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
